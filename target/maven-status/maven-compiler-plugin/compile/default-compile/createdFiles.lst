@@ -1,0 +1,11 @@
+com\standalone\screensender\sender\ScreenSenderService.class
+com\standalone\ScreenSender.class
+com\standalone\screensender\service\ScreenshotService.class
+com\standalone\MainApplication.class
+com\standalone\screensender\receiver\ServidorReceptor.class
+com\standalone\screensender\service\ScreenSenderService.class
+com\standalone\screensender\hotkey\HotkeyListener.class
+com\standalone\TesteServidor.class
+com\standalone\ScreenReceiver.class
+com\standalone\ServidorEnvio.class
+com\standalone\NetworkScanner.class

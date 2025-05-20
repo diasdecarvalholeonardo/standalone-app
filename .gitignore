@@ -1,0 +1,10 @@
+echo target/ > .gitignore
+echo *.log >> .gitignore
+echo *.class >> .gitignore
+echo .idea/ >> .gitignore
+echo .settings/ >> .gitignore
+echo *.iml >> .gitignore
+echo .classpath >> .gitignore
+echo .project >> .gitignore
+echo *.DS_Store >> .gitignore
+
